@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'krzrutapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E192D1FAE54E45A1A2E003C794A98AF8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_03A0EE72CA5F4AFE8B1CA068F7F65DC3 }}
